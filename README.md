@@ -16,5 +16,5 @@
 - XQUERY
 - XLT
 ##  Acerca de mí:
--  ** [ LinkedIn ] (https://www.linkedin.com/in/jesus-esteban-diez/) ** 🏢️
+-  ** [ LinkedIn ] https://www.linkedin.com/in/jes%C3%BAs-esteban-d%C3%ADez//) ** 🏢️
 -  ** [ CV Web ] (https://jesusestebandiez.github.io/) ** 💻
