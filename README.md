@@ -1,6 +1,6 @@
 # Tecnico en Sistemas Microinformaticos y Redes locales
 
-[![ tarjeta Léame ](https://github-readme-stats.vercel.app/api?username=jesusestebandiezs&show_icons=true&theme=tokyonight)] (https://github.com/jesusestebandiez?tab=repositories)
+[![ tarjeta Léame](https://github-readme-stats.vercel.app/api?username=jesusestebandiezs&show_icons=true&theme=tokyonight)] (https://github.com/jesusestebandiez?tab=repositories)
 
 [![Lang principales](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusestebandiez&theme=tokyonight)
 
