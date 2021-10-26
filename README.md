@@ -4,7 +4,7 @@
  - NODE
 - ANGULAR
 - SCSS
-- Java
+- JAVA
 - HTML
 - PYTHON
 - CSS
