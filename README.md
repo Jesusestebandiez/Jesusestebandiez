@@ -1,7 +1,8 @@
 # Tecnico en Sistemas Microinformaticos y Redes locales
 [![Lang principales](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusestebandiez&theme=tokyonight)
 ##  Tecnologías:
- - NODE
+- REact
+- NODE
 - ANGULAR
 - SCSS
 - JAVA
