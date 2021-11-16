@@ -1,4 +1,5 @@
 # Tecnico en Sistemas Microinformaticos y Redes locales
+# Desarrollador Full Stack
 [![Lang principales](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusestebandiez&theme=tokyonight)
 ##  Tecnologías:
 - NEXT
