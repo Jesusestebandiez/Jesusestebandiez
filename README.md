@@ -3,6 +3,7 @@ Jesús Esteban Díez, colaborador en diferentes apps, aportando conocimientos t�
 # Tecnico en Sistemas Microinformaticos y Redes locales
 [![Lang principales](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusestebandiez&theme=tokyonight)
 ##  Tecnologías:
+- PHP
 - NEXT
 - REACT
 - NODE
