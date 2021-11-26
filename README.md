@@ -3,6 +3,7 @@ Colaborador en diferentes apps, aportando conocimientos técnicos de ambas área
 # Tecnico en Sistemas Microinformaticos y Redes locales
 [![Lang principales](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusestebandiez&theme=tokyonight)
 ##  Tecnologías:
+- MYSQL
 - PHP
 - NEXT
 - REACT
