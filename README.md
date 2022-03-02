@@ -1,4 +1,4 @@
-# Desarrollador Full Stack Junior
+# Desarrollador Full Stack 
 Colaborador en diferentes apps, aportando conocimientos técnicos de ambas áreas profesionales, creador de varias apps, siendo responsable de los diferentes componetes de la app web.
 # Tecnico en Sistemas Microinformaticos y Redes locales
 [![Lang principales](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusestebandiez&theme=tokyonight)
