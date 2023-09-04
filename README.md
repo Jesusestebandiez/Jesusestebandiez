@@ -22,4 +22,4 @@ Colaborador en diferentes apps, aportando conocimientos técnicos de ambas área
 - XLT
 ##  Acerca de mí:
 -  ** [ LinkedIn ] (https://www.linkedin.com/in/jes%C3%BAs-esteban-d%C3%ADez/) ** 🏢️
--  ** [ CV Web ] (https://https://curriculum-online.vercel.app//) ** 💻.
+-  ** [ CV Web ] (https://curriculum-online.vercel.app//) ** 💻.
