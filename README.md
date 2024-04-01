@@ -15,6 +15,7 @@ Colaborador en diferentes apps, aportando conocimientos técnicos de ambas área
 - HTML
 - PYTHON
 - CSS
+- C++
 - JAVASCRIPT
 - XML
 - XPAHT
